@@ -1,0 +1,1 @@
+# quasi-F-split-hypersurfaces
